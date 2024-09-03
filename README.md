@@ -1,1 +1,2 @@
-# LabActivity02
+- This is a laboratory on Modules
+- The topics covered in this activity are/is
